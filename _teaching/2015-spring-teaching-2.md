@@ -2,7 +2,7 @@
 title: "Teaching Experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Zhejiang University, ZJUI Department"
 date: 2022-9-10
 location: "Haining, Zhejiang"
