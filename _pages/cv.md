@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Zhejiang University, 2023
+* B.S. in Electrical Engineering, University of Illinois at Urbana-Champaign, 2023, GPA:3.84
+* B.Eng. in Electrical Engineering and Automation, Zhejiang University, 2023, GPA:3.96
 
 Work experience
 ======
